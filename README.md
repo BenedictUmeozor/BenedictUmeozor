@@ -2,10 +2,6 @@
 
 I'm a passionate frontend developer specializing in React, Next.js, and other modern web technologies. I love building beautiful and intuitive user interfaces that provide seamless experiences for end-users.
 
-[![Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenedictUmeozor&show_icons=true&theme=radical)](https://github.com/BenedictUmeozor)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictUmeozor&layout=compact&theme=radical)](https://github.com/BenedictUmeozor/github-readme-stats)
-
 ### Connect with me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Benedict%20Umeozor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedict-umeozor-014b70228/)](https://www.linkedin.com/in/benedict-umeozor-014b70228/)
@@ -30,16 +26,11 @@ I'm a passionate frontend developer specializing in React, Next.js, and other mo
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### GitHub Stats
 
-![Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenedictUmeozor&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenedictUmeozor&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictUmeozor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 - 🔭 I'm currently working on leveling up my Next.js skills
-- 🌱 I'm currently learning Next.js and TypeScript
 - 👯 I'm looking to collaborate on exciting web development projects
 - 💬 Ask me about JavaScript, React, and frontend development
 - 😄 Pronouns: He/Him

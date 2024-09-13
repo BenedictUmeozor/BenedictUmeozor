@@ -30,7 +30,7 @@ I'm a passionate frontend developer specializing in React, Next.js, and other mo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictUmeozor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I'm currently working on leveling up my Next.js skills
+- 🔭 I'm currently learning node.js with express
 - 👯 I'm looking to collaborate on exciting web development projects
-- 💬 Ask me about JavaScript, React, and frontend development
+- 💬 Ask me about JavaScript, React, Next.js and frontend development
 - 😄 Pronouns: He/Him

@@ -1,36 +1,52 @@
 ### Hi there, I'm Benedict 👋
 
-I'm a passionate frontend developer specializing in React, Next.js, and other modern web technologies. I love building beautiful and intuitive user interfaces that provide seamless experiences for end-users.
+I'm a frontend and mobile developer building user-focused products with **React, React Native, Expo, Next.js, and TypeScript**.
+
+I enjoy turning ideas into polished, reliable interfaces — from responsive web apps to mobile experiences with real-time interactions, maps, authentication, dashboards, and product-led UX.
+
+I also bring a strong business background, having graduated as the Overall Best Graduating Student of the University of Lagos with a 5.00/5.00 CGPA in Business Administration.
+
+---
+
+### Tech Stack
+
+#### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+#### Styling & UI
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Backend & Tools
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### Currently
+
+- Building and improving mobile-first product experiences
+- Deepening my skills in React Native, Expo, maps, real-time systems, and scalable frontend architecture
+- Exploring how AI can improve user experience, productivity, and decision-making in software products
+- Open to frontend, mobile, and product engineering opportunities
+
+---
 
 ### Connect with me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Benedict%20Umeozor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedict-umeozor-014b70228/)](https://www.linkedin.com/in/benedict-umeozor-014b70228/)
-[![Twitter Badge](https://img.shields.io/badge/-@dev_benedict-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dev_benedict)](https://twitter.com/dev_benedict)
 
-### Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge&logo=nextjs&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictUmeozor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-- 🔭 I'm currently learning node.js with express
-- 👯 I'm looking to collaborate on exciting web development projects
-- 💬 Ask me about JavaScript, React, Next.js and frontend development
-- 😄 Pronouns: He/Him
+[![X Badge](https://img.shields.io/badge/-@dev__benedict-000000?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/dev_benedict)](https://twitter.com/dev_benedict)

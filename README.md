@@ -45,7 +45,7 @@ I also bring a strong business background, having graduated as the Overall Best 
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BenedictUmeozor&show_icons=true&locale=en" alt="BenedictUmeozor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BenedictUmeozor&" alt="BenedictUmeozor" /></p>
 
 ---
 

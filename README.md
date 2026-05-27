@@ -45,6 +45,10 @@ I also bring a strong business background, having graduated as the Overall Best 
 
 ---
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BenedictUmeozor&show_icons=true&locale=en" alt="BenedictUmeozor" /></p>
+
+---
+
 ### Connect with me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Benedict%20Umeozor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benedict-umeozor-014b70228/)](https://www.linkedin.com/in/benedict-umeozor-014b70228/)

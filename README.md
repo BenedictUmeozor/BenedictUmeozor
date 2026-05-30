@@ -4,8 +4,6 @@ I'm a frontend and mobile developer building user-focused products with **React,
 
 I enjoy turning ideas into polished, reliable interfaces — from responsive web apps to mobile experiences with real-time interactions, maps, authentication, dashboards, and product-led UX.
 
-I also bring a strong business background, having graduated as the Overall Best Graduating Student of the University of Lagos with a 5.00/5.00 CGPA in Business Administration.
-
 ---
 
 ### Tech Stack
